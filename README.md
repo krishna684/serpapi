@@ -96,7 +96,4 @@ Key external libraries include:
 - `serpapi` (API client for Google search results)
 - `requests` (HTTP requests used internally by serpapi)
 
----
 
-## 📜 License
-MIT (or your preferred license)
